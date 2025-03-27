@@ -1,3 +1,5 @@
+namespace tc2025;
+
 function topKFrequent($nums, $k) {
 	$a = array();
 
